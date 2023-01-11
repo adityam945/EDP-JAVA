@@ -17,7 +17,7 @@ https://github.com/adityam945/EDP-JAVA
 Download and install Java11 or higher.
 
 ```
-git clone https://github.com/Tejasvedagiri/DBMS_EDP.git
+git clone https://github.com/adityam945/EDP-JAVA
 cd /DBMS_EDP
 ```
 
